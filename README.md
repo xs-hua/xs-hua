@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **xs-hua/xs-hua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Xinshu! 👋 <br>
+    🔥 Junior Software Developer with domain knowledge in test <br>
+    :sparkles: Favorite Tech: Java, Python, JavaScript... <br>
+    :notebook: I’m currently learning Golang...   <br>
+    :email:	work.hua.xinshu@gmail.com <br>
+    :art: Portfolio: https://xs-hua.github.io <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/xinshu-hua-a45495158/ <br>           
+  </samp>
+</p>
+
+
+
